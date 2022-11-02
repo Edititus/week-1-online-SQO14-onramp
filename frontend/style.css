@@ -1,0 +1,154 @@
+* body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+  .document{
+    height: 70vh;
+    width:auto;
+    padding-top:40px;
+    padding-right: 40px; 
+    padding-left: 150px;
+    font-family:sans-serif;
+    background-color:#c4f1f1 
+     /* background: linear-gradient(
+        to bottom,
+        rgba(0, 150, 150, 0.25)0%,
+        rgba(0, 150, 150, 0.25)49%,
+        white 49%,
+        white 100%
+        );  */
+}
+
+h1{
+    padding-left: 25px;
+}
+
+ .box{
+    position: relative;
+    width:300px;
+    height:auto;
+    background-color:white;
+    float:left;
+    margin:0 20px;
+    border-radius: 5px;
+    text-align: justify;
+    padding:20px 20px;
+ }
+
+ .box2{
+    width:350px!important;
+    height:auto !important;
+    padding:40px 40px !important;
+ }
+ 
+ img.display{
+    width:60px;
+    height: 60px;
+    border-radius:30px;
+    float:left;
+    margin-right: 15px;
+    margin-top:2px;
+    
+ }
+ p.username{font-weight: bold;
+    font-size: large;
+}
+.twitter{
+    position:relative;left:4px;top:-15px;
+    margin: 14px;
+    font-size: small;
+}
+.caption{
+    line-height:25px;
+    font-size:medium;
+}
+.hearticon{
+    width:25px;
+    height:25px;
+    position:relative;bottom:0px;left:-33px;
+
+
+}
+.twittericon{
+    width:20px;
+    height:20px;
+    position:relative;bottom:170px;left:250px;
+}
+
+.date{
+    float:right;
+    position:relative;bottom:10px;left:-10px;
+}
+.likes{
+    float:left;
+    position:relative;bottom:10px;left:45px;
+}
+
+ .twittericon2{
+    width:20px;
+    height:20px;
+    position:relative;bottom:250px;left:300px;
+    
+}
+img.display2{
+    width:60px;
+    height: 60px;
+    border-radius:30px;
+    float:left;
+    margin-right: 15px;
+    margin-top:2px;
+    
+ }
+
+ .likes3{
+    float:left;
+    position:relative;bottom:10px;left:55px;
+ }
+
+ .price-plan{
+    text-align:center;
+    position:relative;top:20px;
+   
+ }
+ .prompt{
+   margin: auto;
+   width:400px;
+   height:auto;
+   border:2px solid burlywood;
+   padding:35px;
+   background-color: #f6efe4;
+   position:relative;top:50px;
+   border-radius:5px;
+   font:black;
+   
+ }
+
+
+ .bottom-rule{
+    border-bottom : 2px solid #ccc;
+    width: 90%!important;
+    padding:5px;
+ }
+#amount{
+    font-size: 60px;font-weight: bold;
+}
+
+.submit{ 
+    width: 90%!important;
+    border:10px solid rgb(0, 191, 255)!important;
+    background-color:rgb(0, 191, 255)!important;
+    position:relative;top:10px;
+   
+}
+p1 {color:white;
+    text-align: center;
+    font-weight: bold;
+margin-left: 80px;
+}
+/*this is the icon for the last box*/
+   .twittericon3{width:20px;
+    height:20px;
+    position:relative;bottom:-4px;left:70px;
+    
+   }
